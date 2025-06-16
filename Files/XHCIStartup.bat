@@ -1,1 +1,0 @@
-start "" /min powershell -ExecutionPolicy Unrestricted -File "%SystemDrive%\windows\xhci-imod-interval.ps1"
