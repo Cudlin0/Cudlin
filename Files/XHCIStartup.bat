@@ -1,1 +1,1 @@
-start "" /min powershell -ExecutionPolicy Unrestricted -File "%SystemRoot%\XHCIIMODInterval.ps1"
+start "" /min powershell -NoLogo -NoProfile -WindowStyle Hidden -ExecutionPolicy Bypass -File "%SystemRoot%\XHCIIMODInterval.ps1"
