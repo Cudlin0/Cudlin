@@ -1,0 +1,1 @@
+start "" /min powershell -ExecutionPolicy Unrestricted -File "%SystemDrive%\windows\XHCIIMODInterval.ps1"
